@@ -101,6 +101,8 @@
 		8383ED7319EE11890090183D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0710;
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = "Effortless Code";
 				TargetAttributes = {
